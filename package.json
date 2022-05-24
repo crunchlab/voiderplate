@@ -1,10 +1,10 @@
 {
-    "name": "void-strutture-ricettive",
-    "version": "1.0.2-beta",
-    "author": "Ionic Framework",
-    "homepage": "https://ionicframework.com/",
+    "name": "voiderplate",
+    "version": "1.0.0-beta",
+    "author": "VOID - Open Data",
+    "homepage": "https://vo-id.it/",
     "repository": {
-        "url": "https://github.com/lbrutti/voiderplate",
+        "url": "https://github.com/crunchlab/voiderplate",
         "type": "git"
     },
     "scripts": {
